@@ -1,4 +1,4 @@
-# Automation Lab
+# Automation  Lab
 
 Three small projects that solve real problems (alarm escalation logic, date math utilities, and a log parser).
 Each project includes a short spec, a working implementation (when applicable), and example inputs/outputs.
