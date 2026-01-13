@@ -1,0 +1,6 @@
+Run:
+python simulate_alarm_escalation.py --scenario move_required
+
+Expected behavior:
+- ACK attempt without movement is rejected
+- After movement, ACK is accepted and escalation stops
