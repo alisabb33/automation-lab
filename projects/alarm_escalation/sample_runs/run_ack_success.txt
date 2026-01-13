@@ -1,0 +1,6 @@
+Run:
+python simulate_alarm_escalation.py --scenario ack_success
+
+Expected behavior:
+- Movement occurs
+- ACK within the move window stops escalation early
